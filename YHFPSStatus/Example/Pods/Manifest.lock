@@ -1,0 +1,16 @@
+PODS:
+  - YHFPSStatus (0.1.0)
+
+DEPENDENCIES:
+  - YHFPSStatus (from `../`)
+
+EXTERNAL SOURCES:
+  YHFPSStatus:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YHFPSStatus: 341bb1502cdb3ddf4faeab43f44e9ed164313d09
+
+PODFILE CHECKSUM: c8d96c6ad6ae74dfee36448bb83a1bb9b04696f0
+
+COCOAPODS: 1.2.1.beta.1

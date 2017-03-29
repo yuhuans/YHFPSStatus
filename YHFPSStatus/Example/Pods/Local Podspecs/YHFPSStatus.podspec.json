@@ -1,0 +1,22 @@
+{
+  "name": "YHFPSStatus",
+  "version": "0.1.0",
+  "summary": "A short description of YHFPSStatus.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/260647768@qq.com/YHFPSStatus",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "260647768@qq.com": "260647768@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/260647768@qq.com/YHFPSStatus.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHFPSStatus/Classes/**/*"
+}

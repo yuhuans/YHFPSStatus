@@ -1,0 +1,6 @@
+framework module Pods_YHFPSStatus_Tests {
+  umbrella header "Pods-YHFPSStatus_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

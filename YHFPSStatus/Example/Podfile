@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YHFPSStatus_Example' do
+  pod 'YHFPSStatus', :path => '../'
+
+  target 'YHFPSStatus_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

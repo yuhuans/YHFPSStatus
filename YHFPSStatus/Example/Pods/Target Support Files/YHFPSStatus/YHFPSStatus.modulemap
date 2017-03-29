@@ -1,0 +1,6 @@
+framework module YHFPSStatus {
+  umbrella header "YHFPSStatus-umbrella.h"
+
+  export *
+  module * { export * }
+}

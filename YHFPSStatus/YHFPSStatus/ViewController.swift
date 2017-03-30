@@ -13,8 +13,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var titleLb: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.titleLb.layer.cornerRadius = 3
-        self.titleLb.layer.masksToBounds = true
+//        self.titleLb.layer.cornerRadius = 3
+//        self.titleLb.layer.masksToBounds = true
     }
 
     @IBAction func pushBtn(_ sender: Any) {

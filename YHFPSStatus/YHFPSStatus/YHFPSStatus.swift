@@ -31,6 +31,7 @@ class YHFPSStatus: NSObject {
         fpsLabel = UILabel.init(frame:CGRect(x: 120, y: 0, width: 100, height: 20) )
         fpsLabel.font = UIFont.systemFont(ofSize: 12)
         fpsLabel.tag=101
+        fpsLabel.textColor=UIColor.red
     }
     func open (){
         let rootVCViewSubViews : Array = UIApplication.shared.delegate!.window!!.rootViewController!.view.subviews
